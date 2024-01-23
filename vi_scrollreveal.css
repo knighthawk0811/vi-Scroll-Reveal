@@ -1,0 +1,135 @@
+/*
+Plugin Name: vi_ScrollReveal
+Plugin URI: http://neathawk.us
+Author: Joseph Neathawk
+Author URI: http://neathawk.us
+Description: A collection of Scroll Reveal Settings
+Version: 0.1.221220
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:
+*/
+
+/*@import url('navBar.css');*/
+
+/*
+element {
+	layout(position)
+
+	content(text)
+
+	design(background)
+
+	other(z-index)
+}
+@font-face
+{
+      font-family: title_font;
+      src: url("/_font/font.ttf");
+}
+COLORS:
+	red logo: #f05829; rgb(240, 88, 41)
+	red text: #932706; rgb(147, 39, 6)
+	blue: #0b4c7d; rgb(11, 76, 125)
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Main Structure
+# Elements
+# Navigation
+# Header Area
+# Content Area
+# Footer Area
+# Other
+# Re-Usable Classes
+# BS override
+# Theme Override
+# Plugin Override
+# Templates
+# Media Queries
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Main Structure
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Header Area
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Content Area
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Footer Area
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Other
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Re-Usable Classes
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# BS Override
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Theme Override
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Plugin Override
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Templates
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Media Queries
+--------------------------------------------------------------*/
+/* Bootstrap xs- | for-phone-only */
+@media only screen and (max-width: 575px) {
+
+}
+/* Bootstrap sm+ | for-tablet-portrait-up */
+@media only screen and (min-width: 576px) {
+	
+}
+/* Bootstrap sm | for-tablet-portrait-only */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+/* Bootstrap md+ | for-tablet-landscape-up */
+@media only screen and (min-width: 768px) {
+	
+}
+/* Bootstrap md | for-tablet-landscape-only */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+/* Bootstrap lg+ | for-desktop-up */
+@media only screen and (min-width: 992px) {
+
+}
+/* Bootstrap lg | for-desktop-only */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+}
+/* Bootstrap xl+ | for-large-desktop-up */
+@media only screen and (min-width: 1200px) {
+
+}
+/* Bootstrap xl | for-large-desktop-only */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+
+}
+/* Bootstrap xxl+ | for-extar-large-desktop-up */
+@media only screen and (min-width: 1400px) {
+
+}
+/* PRINT */
+@media only print {
+
+}
